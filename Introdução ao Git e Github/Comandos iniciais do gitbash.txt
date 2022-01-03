@@ -1,0 +1,5 @@
+Alguns comandos importantes do gitbash:
+git status (verifica se existe alguma alteração sem ser salva)
+git add . (adiciona tudo ) ou git add -A 
+git commit -m ( o -m permite colocar entre aspas uma mensagem sobre a alteração que esta sendo realizada)
+git push origin main ( envia o commit para a main do github)
